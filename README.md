@@ -1,4 +1,4 @@
-# Hola, soy Joaquín Luis García 👋
+# Hola, soy Joaquín Luis García 
 
 **Técnico IT junior en formación | Sistemas, redes y ciberseguridad**
 
@@ -7,10 +7,10 @@ En este perfil comparto proyectos prácticos relacionados con **redes, sistemas,
 
 ## Sobre mí
 
-- 💻 Enfocado en **sistemas, redes, soporte IT y ciberseguridad**
-- 📚 Formación actual en **ASIR** y especialización en **ciberseguridad**
-- 🛠️ Desarrollo de proyectos técnicos documentados en **GitHub** y portfolio web
-- 🚀 Interés en seguir creciendo en entornos de **infraestructura IT, soporte y administración de sistemas**
+- Enfocado en **sistemas, redes, soporte IT y ciberseguridad**
+- Formación actual en **ASIR** y especialización en **ciberseguridad**
+- Desarrollo de proyectos técnicos documentados en **GitHub** y portfolio web
+- Interés en seguir creciendo en entornos de **infraestructura IT, soporte y administración de sistemas**
 
 ## Tecnologías y herramientas
 
@@ -47,9 +47,9 @@ Repositorio de ejercicios y katas orientados a reforzar lógica de programación
 
 ## Portfolio y contacto
 
-- 🌐 **Portfolio técnico:** https://portfolio-joaquingg.netlify.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/joaquin-luis-garcia
-- 📂 **GitHub:** https://github.com/Joaquin7gg
+- **Portfolio técnico:** https://portfolio-joaquingg.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/joaquin-luis-garcia
+- **GitHub:** https://github.com/Joaquin7gg
 
 ## Certificaciones
 
