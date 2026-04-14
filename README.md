@@ -29,14 +29,21 @@ En este perfil comparto proyectos prácticos relacionados con **redes, sistemas,
 Proyecto de infraestructura IT para un entorno tipo pyme, con integración de redes, sistemas, bases de datos y nube.
 
 **Incluye:**
-- segmentación de red con VLANs
+- Segmentación de red con VLANs
 - Active Directory, DNS, IIS y FTP
 - MySQL / MariaDB
-- arquitectura híbrida en AWS
-- documentación técnica e intranet
+- Arquitectura híbrida en AWS
+- Documentación técnica e intranet
+
+[Ver proyecto en GitHub](https://github.com/Joaquin7gg/proyecto-intermodular)
 
 ### 🔹 Manual de hardware y ciberseguridad
 Proyecto web de documentación técnica sobre fundamentos de hardware, configuración y montaje de equipos, análisis de componentes, benchmarks, UEFI, Kali Linux y prácticas introductorias de ciberseguridad.
+[Ver proyecto](https://github.com/Joaquin7gg/manual-hardware) | [Ver web](https://manual-hardware.netlify.app/) 
+
+### 🔹 Katas de Python y JavaScript
+Repositorio de ejercicios y katas orientados a reforzar lógica de programación, estructuras de control, funciones, manipulación de datos y resolución de problemas con Python y JavaScript.  
+🔗 [Ver repositorio de Python](https://github.com/Joaquin7gg/katas-python) 🔗 [Ver repositorio de JavaScript](https://github.com/Joaquin7gg/proyecto2-katas-javascript)
 
 ## Portfolio y contacto
 
