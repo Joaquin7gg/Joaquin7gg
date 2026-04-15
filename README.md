@@ -1,6 +1,6 @@
 # Hola, soy Joaquín Luis García 
 
-**Técnico IT junior en formación | Sistemas, redes y ciberseguridad**
+**Estudiante de ASIR en formación | Sistemas, redes y ciberseguridad**
 
 Soy un profesional en transición al sector IT, actualmente en formación en **Administración de Sistemas Informáticos en Red (ASIR)** y especialización en **ciberseguridad**.  
 En este perfil comparto proyectos prácticos relacionados con **redes, sistemas, bases de datos, scripting, cloud y documentación técnica**.
