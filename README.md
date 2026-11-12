@@ -47,7 +47,7 @@ Repositorio de ejercicios y katas orientados a reforzar lógica de programación
 
 ## Portfolio y contacto
 
-- **Portfolio técnico:** https://portfolio-joaquingg.netlify.app/
+- **Portfolio técnico:** https://github.com/Joaquin7gg/portfolio
 - **LinkedIn:** https://www.linkedin.com/in/joaquin-luis-garcia
 - **GitHub:** https://github.com/Joaquin7gg
 
